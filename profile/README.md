@@ -1,4 +1,4 @@
-![Cali the Cat](./9livescalijump.png)
+![Cali the Cat](/profile/9livescalijump.png)
 
 # **studios**studios
 
